@@ -1,5 +1,5 @@
 # Responsive Clock Ui :alarm_clock:
-Projeto front end com tema Dark e Light que fiz com o auxilio do canal Bedimcode para exercitar minhas habilidades com HTML CSS &amp; JavaScript.
+
 - Belo design de IU de relógio responsivo usando HTML, CSS e JAVASCRIPT.
 - Contém um elegante relógio de neumorfismo.
 - Também um relógio em forma de texto.
